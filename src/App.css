@@ -4,9 +4,9 @@ body{
 .App{
     background-color: #e8edf1;
     min-height: 80vh;
-    width: 400px;
+    width: 350px;
     margin: 20px auto;
-    padding: 20px;
+    padding: 10px;
 }
 ul,li{
     font-family: 'Poppins', sans-serif;
@@ -48,8 +48,8 @@ input:focus{
 .btn{
     padding: 10px;
     border: none;
-    flex: 1
-;    color: white;
+    flex: 1;
+    color: white;
     font-size: 18px;
     font-family: 'Poppins', sans-serif;
 }
