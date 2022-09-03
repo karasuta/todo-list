@@ -44,6 +44,7 @@ input{
     background-color: #e8edf1;
     border: solid #e96d72;
     color: #488ca4;
+    outline: none;
 }
 input:focus{
     background-color: white;
